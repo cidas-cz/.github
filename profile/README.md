@@ -1,5 +1,5 @@
 ## Cidas.cz Církevní Databázový Systém
-vyvyjen pro potřeby AKSM z.s.
+vyvyjen pro potřeby Sekce pro mládež ČBK a signály.cz, z.s.
 
 <!--
 
